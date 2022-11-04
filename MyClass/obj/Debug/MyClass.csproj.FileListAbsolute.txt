@@ -1,0 +1,6 @@
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\bin\Debug\MyClass.dll
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\bin\Debug\MyClass.pdb
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\obj\Debug\MyClass.dll
+C:\Users\nikit_000\Desktop\Программирование\lab1\MyClass\obj\Debug\MyClass.pdb
